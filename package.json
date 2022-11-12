@@ -1,0 +1,21 @@
+{
+          "name": "small-3d-engine",
+          "version": "1.0.0",
+          "description": "It's not finished ...",
+          "main": "index.html",
+          "scripts": {
+            "test": "echo \"Error: no test specified\" && exit 1"
+          },
+          "repository": {
+            "type": "git",
+            "url": "git+https://github.com/codesandbox-app/static-template.git"
+          },
+          "keywords": [],
+          "author": "Yarflam",
+          "license": "MIT",
+          "bugs": {
+            "url": "https://github.com/codesandbox-app/static-template/issues"
+          },
+          "homepage": "https://github.com/codesandbox-app/static-template#readme"
+        }
+        
